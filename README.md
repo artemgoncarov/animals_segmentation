@@ -4,7 +4,7 @@
 
 **Description of our solution**:
 1) For animal detection, we trained YOLO 11l
-2) For segmentation, the SAM large model was trained, and inference was done on YOLO boxboxes
+2) For segmentation, the SAM large model was trained, and inference was done on YOLO bboxes
 
 ## More details:
 
