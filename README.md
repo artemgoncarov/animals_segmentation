@@ -24,3 +24,7 @@ https://www.kaggle.com/datasets/artemgoncarov/animals-augmentations-segmentation
 ## Instructions for launching:
 1) launch all cells in YOLO.ipynb
 2) launch all cells in SAM.ipynb
+
+## Weight
+
+https://drive.google.com/file/d/1f4jEd2xKRFDtHLyFCCjhDKnXgcef3vBV/view?usp=gmail
